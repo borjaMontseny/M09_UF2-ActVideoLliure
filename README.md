@@ -1,4 +1,5 @@
 # Projecte de Vídeo
+![Astronaut and Alien](img/astroAndAlien.jpg)
 
 ## Descripció
 
