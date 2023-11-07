@@ -3,7 +3,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     margin: 0;
     background-color: #f0f0f0;
     flex-direction: column;
@@ -25,6 +24,13 @@ body {
     height: 100%;
 }
 
+/* Ajustem el tamany del video per pantalles < 600px */
+@media (max-width: 600px) {
+    .video-container {
+        width: 100%;
+    }
+}
+
 table {
     margin-top: 20px;
     border-collapse: separate;
@@ -42,5 +48,9 @@ td {
 }
 
 th {
+    background-color: #d3d3d3;
+}
+
+td {
     background-color: #f2f2f2;
 }
