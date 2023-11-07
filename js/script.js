@@ -1,3 +1,4 @@
+/* borjaMontseny DAW2 M09 2023 */
 var switchMode = document.getElementById("switchMode");
 
 switchMode.addEventListener("click", cambiarModo);

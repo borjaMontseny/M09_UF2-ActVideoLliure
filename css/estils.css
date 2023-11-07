@@ -10,6 +10,7 @@ body {
 }
 
 .video-container {
+    max-width: 90%;
     width: 50%;
     position: relative;
     padding-bottom: 28.13%;
@@ -27,16 +28,16 @@ body {
 /* Ajustem el tamany del video per pantalles < 600px */
 @media (max-width: 600px) {
     .video-container {
+        max-width: none;
         width: 90%;
         height: 90%;
     }
 }
 
 table {
-    margin-top: 20px;
     border-collapse: separate;
     border-spacing: 0;
-    width: 50%;
+    max-width: 90%;
     border-radius: 10px;
     overflow: hidden;
 }
