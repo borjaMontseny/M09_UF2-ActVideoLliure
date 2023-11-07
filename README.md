@@ -1,4 +1,4 @@
-# Amistat Estel·lar: Una Història Entre un Astronauta i un Alien
+# Amistat Estel·lar: Una Història Espacial
 
 <div align="center">
     <img src="img/astroAndAlien.jpg" alt="Astronaut and Alien" width="50%" height="50%">
