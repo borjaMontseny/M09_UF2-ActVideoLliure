@@ -24,14 +24,6 @@ En una missió a l'espai profund, el Capità Martínez troba una nau alienígena
 
 Junts, viuen emocionants aventures a través de galàxies desconegudes, resolent enigmes i ajudant a altres éssers extraterrestres en problemes. La seva amistat és una prova de que l'unió pot superar qualsevol obstacle, fins i tot quan provenim de mons diferents.
 
-## Instal·lació
-
-La història "Amistat Estel·lar" no requereix cap instal·lació especial. Simplement obre el fitxer de text i comença a llegir!
-
-## Contribucions
-
-Estem oberts a suggeriments i aportacions de la comunitat. Si tens idees per a nous capítols o personatges, no dubtis en compartir-les amb nosaltres!
-
 ## Agraïments
 
 Agraïm a tots els lectors que segueixen les aventures del Capità Martínez i Zorkel. Esperem que gaudeixis d'aquesta història tant com nosaltres gaudim escrivint-la!
